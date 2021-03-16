@@ -9,7 +9,7 @@
 
 ### Accuracy
 
-Not suitable for unbalanced sample. <img src="http://chart.googleapis.com/chart?cht=tx&chl=Accuracy=\frac{Correct}{Total}=\frac{TP+TN}{TP+TN+FP+FN}" style="border:none;">
+Not suitable for unbalanced sample. $Accuracy = \frac{Correct}{Total} = \frac{TP+TN}{TP+TN+FP+FN}$
 
 ### Precision
 
